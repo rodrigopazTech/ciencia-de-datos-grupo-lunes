@@ -1,0 +1,206 @@
+ID_Pedido,Fecha,Ciudad,Categoria,Producto,Precio_Unitario,Cantidad,Metodo_Pago,Estado
+PED_1000,2026-01-01,Querétaro,Ropa,Jeans Slim,868,2,PayPal,Completado
+PED_1001,2026-01-01,Guadalajara,Electrónica,Audífonos Wireless,1428,2,Transferencia,Cancelado
+PED_1002,2026-01-02,Monterrey,Ropa,Chamarra Térmica,1872,1,PayPal,Completado
+PED_1003,2026-01-03,Ciudad de México,Ropa,Tenis Urbanos,1461,2,PayPal,Completado
+PED_1004,2026-01-05,Puebla,Juguetes,Auto Control Remoto,1196,3,PayPal,Completado
+PED_1005,2026-01-07,Ciudad de México,Electrónica,Smartphone X,11629,2,Tarjeta de Crédito,Completado
+PED_1006,2026-01-07,Puebla,Electrónica,Cargador Rápido,463,2,PayPal,Pendiente
+PED_1007,2026-01-08,Ciudad de México,Ropa,Jeans Slim,842,2,Tarjeta de Crédito,Cancelado
+PED_1008,2026-01-09,Monterrey,Juguetes,Muñeco de Acción,469,2,,Completado
+PED_1009,2026-01-09,Guadalajara,Ropa,Playera Algodón,340,1,Transferencia,Cancelado
+PED_1010,2026-01-12,Querétaro,Deportes,Mancuernas 5kg,764,2,Tarjeta de Crédito,Completado
+PED_1011,2026-01-12,Ciudad de México,Ropa,Tenis Urbanos,1442,2,PayPal,Completado
+PED_1012,2026-01-13,Monterrey,Deportes,Balón de Fútbol,626,1,Tarjeta de Crédito,Cancelado
+PED_1013,2026-01-15,Guadalajara,Hogar,Aspiradora Robot,5693,1,PayPal,Completado
+PED_1014,2026-01-15,Ciudad de México,Electrónica,Smartphone X,12007,1,Transferencia,Cancelado
+PED_1015,2026-01-17,Guadalajara,Deportes,Balón de Fútbol,606,3,Tarjeta de Crédito,Completado
+PED_1015,2026-01-17,Guadalajara,Deportes,Balón de Fútbol,606,3,Tarjeta de Crédito,Completado
+PED_1016,2026-01-17,Querétaro,Ropa,Playera Algodón,336,1,Tarjeta de Crédito,Cancelado
+PED_1017,2026-01-18,Querétaro,Hogar,Lámpara Inteligente,662,1,PayPal,Completado
+PED_1018,2026-01-18,Querétaro,Electrónica,Cargador Rápido,464,1,Transferencia,Completado
+PED_1019,2026-01-19,Ciudad de México,Juguetes,Auto Control Remoto,1207,1,Efectivo,Completado
+PED_1020,2026-01-21,Ciudad de México,Deportes,Mancuernas 5kg,794,1,PayPal,
+PED_1021,2026-01-21,Guadalajara,Ropa,Chamarra Térmica,1773,2,Efectivo,Completado
+PED_1022,2026-01-21,Puebla,Ropa,Tenis Urbanos,1428,3,PayPal,Completado
+PED_1023,2026-01-22,Guadalajara,Electrónica,Cargador Rápido,466,2,Transferencia,Completado
+PED_1024,2026-01-23,Monterrey,Ropa,Jeans Slim,809,1,PayPal,Pendiente
+PED_1025,2026-01-24,Puebla,Hogar,Silla Ergonómica,4259,2,Efectivo,Completado
+PED_1026,2026-01-24,Querétaro,Ropa,Playera Algodón,333,2,Efectivo,Completado
+PED_1027,2026-01-24,Puebla,Electrónica,Cargador Rápido,467,1,Efectivo,Completado
+PED_1028,2026-01-25,Guadalajara,Deportes,Mancuernas 5kg,789,1,Tarjeta de Crédito,
+PED_1029,2026-01-26,Guadalajara,Hogar,Aspiradora Robot,5699,3,Efectivo,Completado
+PED_1030,2026-01-27,Guadalajara,Ropa,Playera Algodón,346,1,PayPal,Completado
+PED_1031,2026-01-27,Guadalajara,Hogar,Aspiradora Robot,5766,3,Efectivo,Completado
+PED_1032,2026-01-28,Monterrey,Deportes,Balón de Fútbol,575,1,Transferencia,Completado
+PED_1033,2026-01-29,Guadalajara,Juguetes,Bloques de Construcción,895,3,,Completado
+PED_1034,2026-01-29,Querétaro,Electrónica,Laptop Pro,22612,1,PayPal,Pendiente
+PED_1035,2026-01-29,Monterrey,Electrónica,Cargador Rápido,433,2,Transferencia,Completado
+PED_1036,2026-01-29,Querétaro,Deportes,Termo Deportivo,361,2,Efectivo,Pendiente
+PED_1037,2026-01-30,Puebla,Hogar,Aspiradora Robot,5873,1,PayPal,Pendiente
+PED_1038,2026-02-01,Puebla,Deportes,Tapete de Yoga,481,1,Tarjeta de Crédito,Completado
+PED_1039,2026-02-02,Puebla,Deportes,Termo Deportivo,347,1,PayPal,Completado
+PED_1040,2026-02-02,Puebla,Deportes,Termo Deportivo,349,1,,Cancelado
+PED_1041,2026-02-05,Guadalajara,Deportes,Mancuernas 5kg,799,1,Transferencia,Pendiente
+PED_1042,2026-02-05,Puebla,Juguetes,Juego de Mesa,620,1,Transferencia,Completado
+PED_1042,2026-02-05,Puebla,Juguetes,Juego de Mesa,620,1,Transferencia,Completado
+PED_1043,2026-02-05,Querétaro,Electrónica,Cargador Rápido,433,2,Tarjeta de Crédito,Pendiente
+PED_1044,2026-02-06,Monterrey,Hogar,Silla Ergonómica,4309,2,Tarjeta de Crédito,Completado
+PED_1045,2026-02-09,Guadalajara,Deportes,Tapete de Yoga,524,1,Transferencia,Completado
+PED_1046,2026-02-09,Monterrey,Ropa,Chamarra Térmica,1821,1,Tarjeta de Crédito,Completado
+PED_1047,2026-02-09,Monterrey,Hogar,Silla Ergonómica,4060,2,Transferencia,Completado
+PED_1048,2026-02-10,Ciudad de México,Hogar,Aspiradora Robot,5740,3,,Completado
+PED_1049,2026-02-10,Monterrey,Electrónica,Audífonos Wireless,1552,2,Tarjeta de Crédito,Cancelado
+PED_1050,2026-02-10,Ciudad de México,Electrónica,Audífonos Wireless,1426,2,Tarjeta de Crédito,Completado
+PED_1051,2026-02-11,Puebla,Juguetes,Juego de Mesa,596,3,Tarjeta de Crédito,Pendiente
+PED_1052,2026-02-11,Querétaro,Juguetes,Auto Control Remoto,1192,3,Efectivo,Cancelado
+PED_1053,2026-02-11,Querétaro,Electrónica,Audífonos Wireless,1557,1,Efectivo,Completado
+PED_1054,2026-02-13,Puebla,Ropa,Tenis Urbanos,1456,1,Transferencia,
+PED_1055,2026-02-15,Guadalajara,Electrónica,Smartphone X,11502,3,Efectivo,Cancelado
+PED_1056,2026-02-19,Puebla,Juguetes,Auto Control Remoto,1235,1,Transferencia,Cancelado
+PED_1057,2026-02-20,Guadalajara,Deportes,Balón de Fútbol,598,2,PayPal,Pendiente
+PED_1058,2026-02-20,Guadalajara,Hogar,Silla Ergonómica,4095,1,Transferencia,Cancelado
+PED_1059,2026-02-23,Monterrey,Ropa,Jeans Slim,825,2,Efectivo,Completado
+PED_1060,2026-02-24,Guadalajara,Hogar,Lámpara Inteligente,637,3,Efectivo,Completado
+PED_1061,2026-02-24,Querétaro,Hogar,Lámpara Inteligente,658,2,PayPal,
+PED_1062,2026-02-25,Ciudad de México,Hogar,Lámpara Inteligente,680,1,Tarjeta de Crédito,Cancelado
+PED_1063,2026-02-25,Puebla,Electrónica,Smartphone X,11579,2,Tarjeta de Crédito,Completado
+PED_1064,2026-02-26,Guadalajara,Deportes,Mancuernas 5kg,822,2,Tarjeta de Crédito,Completado
+PED_1065,2026-02-26,Puebla,Hogar,Cafetera Espresso,3538,3,Transferencia,Completado
+PED_1066,2026-02-26,Ciudad de México,Ropa,Jeans Slim,854,1,PayPal,Completado
+PED_1067,2026-02-27,Ciudad de México,Electrónica,Smartphone X,11745,1,Transferencia,Pendiente
+PED_1068,2026-02-28,Puebla,Deportes,Mancuernas 5kg,794,2,Tarjeta de Crédito,Completado
+PED_1069,2026-02-28,Monterrey,Ropa,Playera Algodón,353,2,PayPal,Completado
+PED_1070,2026-03-01,Guadalajara,Juguetes,Muñeco de Acción,450,2,Transferencia,Completado
+PED_1071,2026-03-01,Puebla,Hogar,Silla Ergonómica,4000,1,Tarjeta de Crédito,
+PED_1072,2026-03-03,Querétaro,Ropa,Tenis Urbanos,1502,2,Tarjeta de Crédito,Completado
+PED_1073,2026-03-03,Guadalajara,Electrónica,Cargador Rápido,443,1,PayPal,Cancelado
+PED_1074,2026-03-04,Guadalajara,Hogar,Aspiradora Robot,5981,2,Tarjeta de Crédito,Completado
+PED_1075,2026-03-04,Ciudad de México,Juguetes,Bloques de Construcción,914,2,Transferencia,Completado
+PED_1076,2026-03-05,Puebla,Juguetes,Auto Control Remoto,1231,1,Transferencia,Completado
+PED_1077,2026-03-06,Guadalajara,Electrónica,Laptop Pro,23040,2,PayPal,Completado
+PED_1078,2026-03-09,Monterrey,Electrónica,Smartphone X,12590,1,PayPal,Completado
+PED_1079,2026-03-09,Puebla,Deportes,Balón de Fútbol,594,2,Tarjeta de Crédito,Completado
+PED_1080,2026-03-09,Puebla,Deportes,Mancuernas 5kg,829,1,PayPal,Pendiente
+PED_1081,2026-03-09,Puebla,Hogar,Aspiradora Robot,6011,2,,Cancelado
+PED_1082,2026-03-10,Querétaro,Juguetes,Auto Control Remoto,1251,1,Transferencia,Completado
+PED_1083,2026-03-10,Monterrey,Hogar,Aspiradora Robot,5919,2,Transferencia,Completado
+PED_1084,2026-03-10,Puebla,Deportes,Balón de Fútbol,622,2,PayPal,Pendiente
+PED_1085,2026-03-11,Ciudad de México,Ropa,Chamarra Térmica,1794,1,Transferencia,Completado
+PED_1086,2026-03-12,Guadalajara,Deportes,Termo Deportivo,365,3,Transferencia,Completado
+PED_1087,2026-03-13,Puebla,Hogar,Lámpara Inteligente,666,2,Tarjeta de Crédito,Cancelado
+PED_1087,2026-03-13,Puebla,Hogar,Lámpara Inteligente,666,2,Tarjeta de Crédito,Cancelado
+PED_1088,2026-03-13,Ciudad de México,Electrónica,Laptop Pro,21613,1,Tarjeta de Crédito,Pendiente
+PED_1089,2026-03-13,Guadalajara,Juguetes,Juego de Mesa,580,1,Efectivo,Completado
+PED_1090,2026-03-16,Querétaro,Deportes,Mancuernas 5kg,778,3,Transferencia,Cancelado
+PED_1091,2026-03-17,Guadalajara,Juguetes,Muñeco de Acción,457,1,Transferencia,Completado
+PED_1092,2026-03-17,Ciudad de México,Juguetes,Muñeco de Acción,448,1,Transferencia,Completado
+PED_1093,2026-03-18,Monterrey,Hogar,Silla Ergonómica,4406,1,Transferencia,Pendiente
+PED_1094,2026-03-20,Ciudad de México,Electrónica,Cargador Rápido,464,1,Transferencia,
+PED_1095,2026-03-22,Monterrey,Ropa,Chamarra Térmica,1872,3,Efectivo,Completado
+PED_1096,2026-03-22,Ciudad de México,Ropa,Chamarra Térmica,1873,1,Efectivo,
+PED_1097,2026-03-24,Puebla,Hogar,Silla Ergonómica,4338,1,PayPal,Completado
+PED_1098,2026-03-25,Puebla,Electrónica,Smartphone X,12304,1,Efectivo,Completado
+PED_1099,2026-03-28,Puebla,Deportes,Tapete de Yoga,497,3,,Completado
+PED_1100,2026-03-29,Guadalajara,Electrónica,Audífonos Wireless,1562,1,Transferencia,Completado
+PED_1101,2026-03-29,Ciudad de México,Electrónica,Laptop Pro,21569,2,Transferencia,Completado
+PED_1102,2026-03-30,Ciudad de México,Juguetes,Muñeco de Acción,457,3,Tarjeta de Crédito,Completado
+PED_1103,2026-04-01,Querétaro,Juguetes,Bloques de Construcción,930,2,Transferencia,Cancelado
+PED_1104,2026-04-02,Puebla,Juguetes,Juego de Mesa,621,1,Efectivo,Completado
+PED_1105,2026-04-03,Guadalajara,Electrónica,Cargador Rápido,431,1,Efectivo,Completado
+PED_1106,2026-04-03,Querétaro,Ropa,Jeans Slim,813,2,Tarjeta de Crédito,Completado
+PED_1107,2026-04-03,Monterrey,Deportes,Tapete de Yoga,488,1,PayPal,Completado
+PED_1108,2026-04-04,Monterrey,Ropa,Chamarra Térmica,1774,1,Efectivo,Completado
+PED_1109,2026-04-05,Querétaro,Juguetes,Bloques de Construcción,922,2,Efectivo,Completado
+PED_1110,2026-04-06,Puebla,Ropa,Chamarra Térmica,1840,3,Efectivo,Cancelado
+PED_1111,2026-04-07,Querétaro,Juguetes,Auto Control Remoto,1191,1,,Pendiente
+PED_1112,2026-04-08,Puebla,Ropa,Chamarra Térmica,1732,2,Transferencia,Completado
+PED_1113,2026-04-08,Querétaro,Juguetes,Auto Control Remoto,1151,3,Efectivo,Pendiente
+PED_1114,2026-04-08,Ciudad de México,Hogar,Aspiradora Robot,5741,3,PayPal,Pendiente
+PED_1115,2026-04-08,Ciudad de México,Ropa,Tenis Urbanos,1435,1,Efectivo,Pendiente
+PED_1116,2026-04-09,Ciudad de México,Ropa,Chamarra Térmica,1815,2,Transferencia,Completado
+PED_1117,2026-04-12,Querétaro,Juguetes,Bloques de Construcción,942,2,Efectivo,Completado
+PED_1118,2026-04-13,Guadalajara,Juguetes,Juego de Mesa,620,1,Efectivo,Completado
+PED_1119,2026-04-13,Querétaro,Juguetes,Bloques de Construcción,909,3,Efectivo,Completado
+PED_1120,2026-04-18,Guadalajara,Hogar,Silla Ergonómica,3992,1,Tarjeta de Crédito,Completado
+PED_1120,2026-04-18,Guadalajara,Hogar,Silla Ergonómica,3992,1,Tarjeta de Crédito,Completado
+PED_1121,2026-04-19,Querétaro,Electrónica,Laptop Pro,22541,1,Transferencia,Completado
+PED_1122,2026-04-19,Puebla,Hogar,Cafetera Espresso,3634,1,Transferencia,Pendiente
+PED_1123,2026-04-19,Monterrey,Juguetes,Auto Control Remoto,1189,1,Tarjeta de Crédito,Completado
+PED_1124,2026-04-20,Querétaro,Deportes,Termo Deportivo,350,1,Tarjeta de Crédito,Completado
+PED_1125,2026-04-22,Ciudad de México,Ropa,Playera Algodón,365,1,PayPal,Pendiente
+PED_1126,2026-04-25,Guadalajara,Juguetes,Juego de Mesa,577,2,Efectivo,Completado
+PED_1127,2026-04-27,Monterrey,Juguetes,Bloques de Construcción,896,1,Efectivo,Completado
+PED_1128,2026-04-27,Guadalajara,Hogar,Cafetera Espresso,3466,1,Transferencia,Cancelado
+PED_1129,2026-04-28,Monterrey,Ropa,Tenis Urbanos,1513,2,Transferencia,Completado
+PED_1130,2026-04-28,Ciudad de México,Ropa,Chamarra Térmica,1801,1,Transferencia,Completado
+PED_1131,2026-04-29,Querétaro,Ropa,Jeans Slim,816,1,PayPal,Completado
+PED_1132,2026-04-30,Monterrey,Electrónica,Smartphone X,12541,3,PayPal,Cancelado
+PED_1133,2026-05-02,Puebla,Deportes,Balón de Fútbol,621,3,Transferencia,Cancelado
+PED_1134,2026-05-05,Guadalajara,Hogar,Silla Ergonómica,4238,1,PayPal,Pendiente
+PED_1135,2026-05-06,Querétaro,Hogar,Silla Ergonómica,4022,1,,Completado
+PED_1136,2026-05-07,Querétaro,Electrónica,Cargador Rápido,468,2,Transferencia,Pendiente
+PED_1137,2026-05-08,Monterrey,Electrónica,Cargador Rápido,432,1,Efectivo,Cancelado
+PED_1138,2026-05-09,Ciudad de México,Juguetes,Juego de Mesa,591,1,PayPal,Completado
+PED_1139,2026-05-10,Puebla,Hogar,Cafetera Espresso,3440,2,Transferencia,Completado
+PED_1140,2026-05-10,Puebla,Deportes,Mancuernas 5kg,786,2,Efectivo,Completado
+PED_1141,2026-05-10,Monterrey,Juguetes,Juego de Mesa,605,1,Efectivo,Completado
+PED_1142,2026-05-11,Guadalajara,Deportes,Tapete de Yoga,507,2,Transferencia,Completado
+PED_1143,2026-05-16,Querétaro,Ropa,Playera Algodón,365,2,Efectivo,Completado
+PED_1144,2026-05-16,Monterrey,Electrónica,Laptop Pro,22356,2,PayPal,Completado
+PED_1145,2026-05-17,Monterrey,Deportes,Mancuernas 5kg,817,1,Transferencia,Completado
+PED_1146,2026-05-17,Puebla,Juguetes,Juego de Mesa,602,1,Efectivo,Completado
+PED_1147,2026-05-18,Puebla,Juguetes,Auto Control Remoto,1232,2,PayPal,Completado
+PED_1148,2026-05-18,Querétaro,Ropa,Playera Algodón,334,2,Transferencia,Completado
+PED_1149,2026-05-18,Guadalajara,Ropa,Playera Algodón,348,2,Tarjeta de Crédito,Cancelado
+PED_1150,2026-05-19,Monterrey,Juguetes,Muñeco de Acción,469,2,Transferencia,Completado
+PED_1151,2026-05-20,Ciudad de México,Electrónica,Audífonos Wireless,1458,1,Transferencia,Cancelado
+PED_1152,2026-05-20,Ciudad de México,Juguetes,Juego de Mesa,615,2,Efectivo,Completado
+PED_1153,2026-05-22,Puebla,Ropa,Tenis Urbanos,1441,1,Tarjeta de Crédito,
+PED_1154,2026-05-22,Monterrey,Deportes,Termo Deportivo,334,2,Efectivo,
+PED_1155,2026-05-23,Querétaro,Hogar,Aspiradora Robot,5510,1,Tarjeta de Crédito,Cancelado
+PED_1156,2026-05-24,Monterrey,Hogar,Cafetera Espresso,3658,2,Transferencia,Completado
+PED_1157,2026-05-24,Querétaro,Juguetes,Muñeco de Acción,438,1,,Pendiente
+PED_1158,2026-05-26,Guadalajara,Electrónica,Audífonos Wireless,1445,1,Tarjeta de Crédito,Completado
+PED_1159,2026-05-26,Querétaro,Juguetes,Juego de Mesa,618,1,Efectivo,Completado
+PED_1160,2026-05-28,Puebla,Electrónica,Audífonos Wireless,1565,2,Tarjeta de Crédito,Completado
+PED_1161,2026-05-30,Puebla,Hogar,Silla Ergonómica,4352,1,Transferencia,
+PED_1162,2026-05-30,Guadalajara,Juguetes,Auto Control Remoto,1247,2,Efectivo,Completado
+PED_1163,2026-05-31,Guadalajara,Deportes,Balón de Fútbol,618,3,PayPal,Pendiente
+PED_1164,2026-06-01,Puebla,Deportes,Balón de Fútbol,589,1,Tarjeta de Crédito,Pendiente
+PED_1165,2026-06-02,Guadalajara,Ropa,Tenis Urbanos,1477,1,Efectivo,Completado
+PED_1165,2026-06-02,Guadalajara,Ropa,Tenis Urbanos,1477,1,Efectivo,Completado
+PED_1166,2026-06-02,Guadalajara,Electrónica,Laptop Pro,22376,2,Transferencia,Completado
+PED_1167,2026-06-03,Guadalajara,Juguetes,Bloques de Construcción,866,1,PayPal,Completado
+PED_1168,2026-06-04,Guadalajara,Ropa,Tenis Urbanos,1567,1,,Pendiente
+PED_1169,2026-06-04,Puebla,Hogar,Silla Ergonómica,4094,1,Tarjeta de Crédito,Cancelado
+PED_1170,2026-06-05,Ciudad de México,Electrónica,Audífonos Wireless,1541,3,PayPal,Pendiente
+PED_1171,2026-06-05,Puebla,Juguetes,Juego de Mesa,577,1,PayPal,Cancelado
+PED_1172,2026-06-08,Puebla,Hogar,Silla Ergonómica,4288,2,PayPal,Pendiente
+PED_1173,2026-06-10,Querétaro,Ropa,Playera Algodón,350,1,Efectivo,Completado
+PED_1174,2026-06-10,Monterrey,Deportes,Balón de Fútbol,598,2,,Completado
+PED_1175,2026-06-10,Monterrey,Juguetes,Auto Control Remoto,1232,2,Tarjeta de Crédito,Completado
+PED_1176,2026-06-12,Ciudad de México,Deportes,Balón de Fútbol,577,2,PayPal,Completado
+PED_1177,2026-06-12,Querétaro,Electrónica,Laptop Pro,22039,1,PayPal,Completado
+PED_1178,2026-06-13,Monterrey,Deportes,Balón de Fútbol,620,1,PayPal,Completado
+PED_1179,2026-06-13,Monterrey,Electrónica,Smartphone X,12110,2,Efectivo,Completado
+PED_1180,2026-06-13,Monterrey,Deportes,Tapete de Yoga,516,1,PayPal,Cancelado
+PED_1181,2026-06-14,Ciudad de México,Deportes,Termo Deportivo,354,1,Tarjeta de Crédito,Cancelado
+PED_1182,2026-06-14,Puebla,Juguetes,Muñeco de Acción,447,3,Efectivo,Completado
+PED_1183,2026-06-15,Ciudad de México,Hogar,Lámpara Inteligente,637,3,PayPal,Pendiente
+PED_1184,2026-06-16,Guadalajara,Deportes,Tapete de Yoga,490,2,Efectivo,Pendiente
+PED_1185,2026-06-17,Ciudad de México,Hogar,Aspiradora Robot,6011,2,Efectivo,Pendiente
+PED_1186,2026-06-18,Monterrey,Ropa,Jeans Slim,849,2,PayPal,Completado
+PED_1187,2026-06-19,Puebla,Juguetes,Auto Control Remoto,1256,1,Transferencia,Completado
+PED_1188,2026-06-21,Querétaro,Juguetes,Muñeco de Acción,451,1,Efectivo,Completado
+PED_1189,2026-06-23,Puebla,Hogar,Cafetera Espresso,3465,2,PayPal,Completado
+PED_1190,2026-06-24,Querétaro,Deportes,Termo Deportivo,359,1,PayPal,Completado
+PED_1191,2026-06-24,Querétaro,Hogar,Silla Ergonómica,4307,1,Tarjeta de Crédito,Completado
+PED_1192,2026-06-24,Querétaro,Hogar,Aspiradora Robot,5811,1,,
+PED_1193,2026-06-24,Querétaro,Juguetes,Muñeco de Acción,454,2,PayPal,Completado
+PED_1194,2026-06-25,Querétaro,Hogar,Silla Ergonómica,4272,2,Transferencia,Cancelado
+PED_1195,2026-06-26,Querétaro,Deportes,Mancuernas 5kg,817,2,Efectivo,Completado
+PED_1196,2026-06-28,Puebla,Juguetes,Juego de Mesa,619,1,PayPal,Cancelado
+PED_1197,2026-06-29,Ciudad de México,Ropa,Tenis Urbanos,1528,2,Tarjeta de Crédito,
+PED_1198,2026-06-29,Querétaro,Deportes,Balón de Fútbol,629,2,Transferencia,Completado
+PED_1199,2026-06-30,Querétaro,Deportes,Balón de Fútbol,602,3,Transferencia,Completado
