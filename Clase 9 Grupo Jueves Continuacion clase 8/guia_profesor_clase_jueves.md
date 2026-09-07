@@ -34,7 +34,11 @@
 ## 📝 Guión y Guía Paso a Paso para el Instructor
 
 ### 1. Recapitulación (5 min)
-* **Mensaje clave:** *"En la clase pasada aprendimos a crear DataFrames y a movernos por ellos usando `.loc` (por nombre de fila/columna) e `.iloc` (por posición numéricas). Hoy completaremos la limpieza profesional de datos reales para poder analizarlos la siguiente semana."*
+* **Mensaje clave:** *"En la clase pasada aprendimos a crear DataFrames y a movernos por ellos usando `.loc` (por nombre de fila/columna) e `.iloc` (por posición numérica). Hoy completaremos la limpieza profesional de datos reales para poder analizarlos la siguiente semana."*
+* **Regla práctica para recordar:**
+  * `.loc[]` = usamos cuando queremos acceder por la etiqueta o nombre de fila/columna.
+  * `.iloc[]` = usamos cuando queremos acceder por su posición numérica (fila 0, fila 1, columna 2, etc.).
+  * **Frase clave:** *"Si sé el nombre, uso `.loc`; si sé la posición, uso `.iloc`."*
 
 ---
 
